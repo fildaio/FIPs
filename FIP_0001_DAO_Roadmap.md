@@ -81,7 +81,7 @@ FilDA DAO 治理池由原FilDA 保险池升级而来，当市场出现极端行�
 
 FilDA DAO V1 is a reference to AAVE and Curve's DAO governance model, which is a tribute to the pioneers of Ethernet DeFi.
 
-### Background
+## Overview
 
 Since the launch on January 5, 2021 at 20:00 (Beijing time), the platform has peaked at $370 million in deposited and loaned funds, which is far more than we expected. We are grateful for the favor and trust of our community users, but we also feel unparalleled pressure and responsibility.
 
@@ -93,7 +93,7 @@ FilDA holders, LP providers, and the development team have their own rights and 
 
 The team is responsible for maintaining a safe, reliable and continuously running system, and constantly innovating and iterating the product. The team's mission is to make FilDA the lowest cost and most efficient funding platform. The community accomplishes the setting of key operational parameters through DAO voting, allowing funding users to decide where the balance lies.
 
-### **FilDA DAO Governance Program:**
+## FilDA DAO Governance Program:
 
 #### DAO Pool
 
@@ -127,7 +127,7 @@ In order to incentivize FilDA users to participate in DAO governance while shari
 
 
 
-### **FilDA DAO governance under a multi-level risk control system**
+## FilDA DAO governance under a multi-level risk control system
 
 The cryptocurrency market is volatile, and lending agreements that do not have adequate risk control will bring losses to the agreement and its users.
 
