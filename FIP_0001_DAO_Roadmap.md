@@ -1,10 +1,11 @@
 
 
-[中文版]()
+[中文版](#filda-dao-v1-%E4%B8%AD%E6%96%87%E7%89%88)
 
-[English Version]()
+[English Version](#filda-dao-v1-english-version)
 
-# **FilDA DAO V1 (中文版)**
+
+# FilDA DAO V1 (中文版)
 
 FilDA DAO V1 参考了以太坊 DeFi 先驱们AAVE及Curve的 DAO 治理模型，在此致敬。
 
@@ -20,7 +21,7 @@ FilDA DAO V1 参考了以太坊 DeFi 先驱们AAVE及Curve的 DAO 治理模型�
 
 团队负责维护系统安全可靠和持续运行，并不停创新和迭代产品，团队的使命是让FilDA成为成本最低、效率最高的资金平台。社区通过DAO投票来完成对关键运营参数的设置，让资金使用者决定平衡点在哪里。
 
-### **FilDA DAO 治理方案：**
+### FilDA DAO 治理方案：
 
 #### DAO Pool
 
@@ -74,7 +75,7 @@ FilDA DAO 治理池由原FilDA 保险池升级而来，当市场出现极端行�
 
 
 
-# **FilDA DAO V1 (English Version)**
+# FilDA DAO V1 (English Version)
 
 
 
