@@ -82,89 +82,90 @@ DAO 池由原保险池升级而来，自愿选择参与 DAO 池的用户，享�
 
 # FilDA DAO V1 (English Version)
 
-FilDA DAO V1 refers to the DAO governance model of Ethereum DeFi pioneers AAVE and Curve, and  tribute to them.
+FilDA DAO V1 is a revision based on the DAO governance model of AAVE, Curve and other Defi pioneers on Ethereum mainchain. Firstly I would like to show my greatest appreciation and respect to the teams who created these pioneer projects.
 
-Since its launch at 20:00（UTC +8）on January 5, 2021, the platform's deposit and loan funds reached US$370 million at the peak, which far exceeded our expectations.  Thank the community users for their trust and love, and let us feel unprecedented pressure and responsibility.
+After it was launched at 20:00（UTC +8）on Jan 5th, 2021, Filda has made phenomenal success and the deposit and loan assets reached a peak of $370 million. . Thank the community participants for their trust and engagement which has greatly motivated us to fulfill more ambitious goal. 
 
-As a decentralized lending platform, deposit users want higher interest rates, and loan users want lower interest rates. It is difficult for the FilDA development team to make correct judgments or “correctly” define a universal standard. As the scale of funds grows, in order for FilDA to continue to operate fairly and impartially, the FilDA development team's decision-making can represent the interests of most users and funds as much as possible, so that the appeals of all parties can be listened to, and the optimal solution can be achieved through the game through the market mechanism. It is the core purpose of FilDA DAO governance.
+As a decentralized lending and borrowing platform, users who deposit assets prefer higher interest rates, and users who loan assets urge to have lower interest rates. It is difficult for the FilDA development team to make the best judgments or “correctly” define a universal standard. As the asset size grows, in order for FilDA to continue to operate fairly and impartially, it is necessary for the FilDA development team to make decisions that represent the interests of most users and their funds as much as possible, so that the appeals of all parties can be consideredThis requires a market mechanism to find an optimal solution, which is the core purpose of FilDA DAO governance.
 
-FilDA deposit and loan users, holders, LP providers, and development teams have their own rights and obligations. With the development of FilDA, important decisions of FilDA will gradually be redefined and verified through the DAO governance process, and long-term stakeholders will decide FilDA. The long-term development direction of the platform. Under this framework, the developer team is responsible for maintaining the safe, reliable and continuous operation of the system, and constantly innovating and iterating products. The mission of the team is to make FilDA the preferred low-cost and high-efficiency user-friendly lending platform of HECO. The community completes the setting of key operating parameters through DAO voting, allowing fund users to decide where to balance.
+FilDA deposit and loan users, holders, LP providers, and development teams have their respective rights and obligations. With the development of FilDA, important decisions of FilDA will gradually be redefined and verified through the DAO governance process. In another word,the FilDA holders will decide the long term development strategy for FilDA. . With this governance framework, the development team is responsible for system maintenance to ensure the safe, reliable and sustainable operation, and provide more innovative and iterating products. The team is committed to make FilDA the top one DeFi platform on Heco with low-cost,high-efficiency and high user-friendliness. The community decides the setting of key operating parameters through DAO voting.
 
 
 
-## FilDA DAO governance framework:
+## FilDA DAO governance framework
+
+
 
 #### DAO Pool
 
-The first step in DAO governance is to support DAO V1.0 voting, which is to upgrade the Insurance Pool to DAO Pool.  After FilDA holders pledge FilDA to the DAO Pool, they will get voting rights in DAO governance and will still receive the FilDA incentives from the original insurance pool.  DAO Pool will vote on the roadmap and major issues. The first governance will vote on whether to pass FilDA DAO.
+The first step in DAO governance is to implement DAO V1.0 that upgrades the Insurance Pool to DAO Pool. After FilDA holders stakeFilDA to the DAO Pool, they will get voting power in DAO governance while still receiving the FilDA incentives from the original insurance pool. DAO Pool will vote for the roadmap and major decisions in the future. The first decision to vote is whether to pass FilDA DAO.
 
-
-
-FilDA needs a group of partners who are willing to grow and develop together for a long time to participate together. The farther we see, the farther we will go together.  FilDA DAO V1.0 will be the initial prototype at this stage. FilDA DAO V2.0 may refer to the DAO governance innovations of more mature projects, such as Curve. Users can choose the pledge period when they pledge FilDA. The longer the period, the more it is in agreement with the agreement.  The greater the risk shared, the corresponding FilDA will also incentivize long-term peers. The greater the voting weight of the same number of FilDA, the greater the agreement rights.
+FilDA welcomes any members or paties who are willing to grow and develop with us to achieve further success.. FilDA DAO V1.0 will be the initial prototype at this stage. FilDA DAO V2.0 may refer to the DAO governance models of more mature projects, such as Curve. Users can choose the pledge period when they pledge Filda. The longer the period, the more risk the users take as the protocol does, in which the users obtain more Filda as the incentives and also have more voting power for each Filda. 
 
 
 
 #### Genesis governance
 
-The first step in FilDA creation governance is to achieve information transparency. Information transparency is the basis for protocol evolution and a lubricant for the balance of interests of all parties.  The genesis team has always adhered to the principle of transparency to make the information of the agreement public. It is also the first online lendingplatform on the Huobi HECO network to disclose token distribution, mining parameters, interest rate models, etc.  At present, FilDA has completed 13 assets including HBTC, USDT-HECO, HUSD, ETH, HT, ELA-HECO, HBCH, HBSV, HLTC, HDOT, HPT, HXTZ, and the peak value of total borrowing has exceeded US$350 million.  Since the increase or decrease of each asset will directly affect the direct related interests of FilDA's participation in depositing and lending users, the major innovations of FilDA's products in the future include not limited to the addition of currency lending in the innovation zone, and the addition of machine gun pool functions. In the future, FilDA  Major adjustments such as the distribution of mining tokens, mining parameters, and interest rate models will all be decided by DAO voting on whether to make changes and adjustments.
+The first step in FilDA creation governance is to achieve information transparency. Information transparency is the cornerstone for protocol evolution and the lubricant for balancing the interests of all parties. The genesis team has always adhered to the principle of transparency to release all the information about the protocol. It is also the first Defi platform on the HECO network to disclose token distribution, mining parameters, interest rate models, etc. At present, FilDA has added 13 assets including HBTC, USDT-HECO, HUSD, ETH, HT, ELA-HECO, HBCH, HBSV, HLTC, HDOT, HPT, HXTZ. peak TVL has exceeded US$350 million. Since the increase or decrease of each asset will directly affect the interests of FilDA's participants who deposit or loan these assets.the major innovations of FilDA's products in the future include but are not limited to the features such as token lending in the innovation zone, and machine gun pool . In the future, major adjustments such as the distribution of mining tokens, mining parameters, and interest rate models will all be decided by DAO.
 
 
 
 #### Market governance
 
-The market model of FilDA basically refers to the DeFi loan agreement of the industry head, such as Compound, AAVE, etc. and the relevant parameter standards of the CEFI head protocol.
+The market model of FilDA basically refers to the parameters setting of the top DeFi projects in this space such as Compound, AAVE, etc.
 
-In order to listen to more users and take into account the user experience, FilDA will gradually open the DAO governance of the lending market, including but not limited to asset types, base interest rates, interest rate models, and asset pledge rates.  Lending parameter voting governance.
+Considering both user needs and user experience , FilDA will gradually launch the DAO governance mechanism that includes but , but not limited to asset types, base interest rates, interest rate models, and asset pledge rates, etc.
 
 
 
-#### Agreement governance
+#### Protocol governance
 
-The adjustments to the various parameters of the agreement that are not mentioned above, including but not limited to DAO Pool various parameters and DAO rules and other related parameters are governed by DAO.
+The adjustments to the parameters of the protocol that are not mentioned above, including but not limited to various parameters about DAP Pool and other related parameters are governed by DAO.
 
 
 
 #### Voting Rules
 
-Anyone can collect opinions widely in the community and fully discuss and form a proposal. Open a pull request in this repository (https://github.com/fildaio/FIPs) to submit the proposal content.  At this stage, the FilDA development team submits a proposal.  In the future, it will be gradually supported that any address can submit a proposal, and the voting governance weight is also related to the length of time the user is locked in the DAO pool.
+Anyone can collect opinions from the community and createa proposal. Please submit the proposal using a pull request in this repository (https://github.com/fildaio/FIPs). At this point, the FilDA development team submits the proposal. As planned in the future, you can use any address to submit a proposal. The voting power is also related to the length of time the user locks their assets in the DAO pool.
 
-
-
-There are currently two options for voting on the proposal, Yes/No. All users who lock FilDA tokens in the DAO pool can participate in the vote.  The number of tokens in the DAO pool is used as the number of votes (the number of applied for withdrawals is not counted).  After the voting is over, if the number of votes for the Yes option exceeds the number of votes for the No option, it means that it is passed, otherwise it means it is rejected.  A rejected proposal cannot be voted again within one week (calculated from the time of this launch).
+There are currently two options for voting on the proposal:Yes/No. All users who lock FilDA tokens in the DAO pool can vote for the proposal. . The number of tokens in the DAO pool is used as the number of votes ( withdrawals is not counted). After the voting is over, if the number of votes for the Yes option exceeds the number of votes for the No option, it means that the proposal is passed, otherwise the proposal is rejected. A rejected proposal cannot be voted again within one week (calculated from the time when the proposal is submitted).
 
 
 
 #### DAO Pool Dividend
 
-In order to incentivize FilDA users to participate in DAO governance, the platform will distribute 20% of the agreement's reserved fund pool income to DAO pool users every week.
+In order to incentivize FilDA users to participate in DAO governance, the platform will distribute 20% of reserved platform income to DAO pool users every week.
 
 
 
-## Multi-level risk control system under the governance of FilDA DAO
+##Multi-level risk control system under the governance of FilDA DAO
 
-The encrypted digital currency market is volatile, and if the lending agreement does not implement sufficient risk control, it will bring losses to the agreement and users.
+The crypto market is volatile, and if the protocoldoes not implement sufficient risk control, it can cause losses to both the protocol and users.FilDA's risk control system has a four-layer framework as follows:
 
-FilDA's risk control system has a four-layer framework as follows:
 
-#### Asset type selection governance framework
+
+#### Asset governance framework
 
 The assets in the market must have sufficient trading depth in HECO DEX or Huobi Global, and the assets that can be liquidated can be pledged.
 
+
+
 #### Governance framework for pledge rate selection
 
-In the initial stage of FilDA’s launch, in order to control risks and protect user property safety, the asset pledge rate was only 10%. After a period of steady development, FilDA adjusted the pledge rate with reference to Huobi Global, and the average pledge rate was lower than the market leader.  Parameters such as pledge rate will gradually open to support DAO governanced.
+In the initial stage of FilDA’s launch, in order to control risks and protect user property safety, the asset pledge rate was only 10%. After a period of steady operation, FilDA adjusted the pledge rate with reference to Huobi Global, and the average pledge rate was lower than that of the top 3 exchanges as well as top Defi projects. Parameters such as pledge rate will gradually open toDAO governance.
 
 
 
 #### Liquidation governance framework
 
-The FilDA clearing market is completely open, the code is open source, and the documents are open. Any on-chain clearing contract can be cleared within the rules, so that the market is fully competitive, the clearing process is smooth, and risks are avoided.
+The FilDA liquidation market is completely open, the code is open source, and the documents are open. Any on-chain liquidation contract can be processed within the rules to ensure fair market competition, smooth liquidation process and minimum risk. 
 
 
 
-#### Clearing Insurance Framework
+#### DAO Pool Governance Framework
 
-The DAO pool is upgraded from the original insurance pool. Users who voluntarily choose to participate in the DAO pool enjoy the rights of FilDA mining, voting governance, and dividends, as well as the responsibility of the final insurer in the market.  When there are extreme market conditions, market liquidity problems, and deposit users suffer losses, part of the assets of the DAO pool will compensate depositors appropriately. DAO governance can set proportional parameters, the maximum is 50%, and the minimum is 20%.
+The DAO pool is upgraded from the original insurance pool. Users who voluntarily choose to participate in the DAO pool enjoy the rights of FilDA mining, voting governance, and dividends, as well as the liability as of the final insurer in the market. For extreme market conditions andmarket liquidity problems, if deposit users suffer losses, part of the assets of the DAO pool will compensate depositors with a specific proportion. DAO governance can set proportion parameters, the maximum is 50%, and the minimum is 20%.
+
 
  
 
