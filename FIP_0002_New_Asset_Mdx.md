@@ -87,7 +87,5 @@ https://mdex.com/#/
 
 
 
-
-
 # FIP-0002 New asset - MDX
 
