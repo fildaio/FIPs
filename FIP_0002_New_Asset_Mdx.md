@@ -32,18 +32,23 @@ MDX 目前已通过慢雾 SlowMist，灵踪科技 FairyProof，Certik 三家安�
 
 #### 3）流动性风险
 MDX 目前流动性深度约4.5亿美金，流动性风险低
-数据参考 https://info.mdex.com/#/token/0x25d2e80cb6b86881fd7e07dd263fb79f4abe033c
+数据参考 
+
+https://info.mdex.com/#/token/0x25d2e80cb6b86881fd7e07dd263fb79f4abe033c
 
 
 ### 3，MDEX 利率设置相关说明
 MDX 的借款利率模型与其他资产相比将波动更大，需平衡存款人与借款人的利益，以下数值可能由团队根据实际情况变化。
 
 #### 1）基础利率：参考 MDEX 的 boardroom 里的 MDX 质押 APY，MDX 借款的初始基础利率设定为50%，后续将随着 MDX在 FilDA 平台存借实际情况而调整。
-MDEX Boardroom链接 https://mdex.com/#/boardroom
+MDEX Boardroom
+
+链接 https://mdex.com/#/boardroom
 
 #### 2）MDX 拐点利率模型中，第一阶梯拐点增长为 MDX 资金使用率为 50%，资金使用率每上升1%，利率上涨 15%，第二阶梯拐点MDX资金使用率为 90%，每使用率每上升 1%，利率上涨 30%
 
 利率模型介绍
+
 https://docs.filda.io/ye-wu-liu-cheng/li-lv-mo-xing-interest-model
 
 
@@ -61,7 +66,9 @@ MDEX 是 HECO 上基于自动化做市机制的去中心化交易产品。
 根据 Coinmarketcap 及 Coingecko数据，Mdex 日交易量排名全球第一，为第二名到第四名Uniswap, Pancakeswap，Sushiswap 的总和。
 
 Top Decentralized Exchanges by Trading Volume
+
 https://coinmarketcap.com/rankings/exchanges/dex/
+
 https://www.coingecko.com/en/dex
 
 #### 2，MDEX数据概览
@@ -73,6 +80,8 @@ https://mdex.com/#/
 #### 3，MDX代币
 1）代币交易情况
 https://www.defibox.com/markets/mdex?chain=heco
+
+https://mdex.com/#/
 
 2）代币总量等
 
