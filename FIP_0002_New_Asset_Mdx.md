@@ -84,7 +84,7 @@ https://www.defibox.com/markets/mdex?chain=heco
 https://mdex.com/#/
 
 2）代币总量等
-
+![](./images/mdx_cmc.png)
 
 
 # FIP-0002 New asset - MDX
