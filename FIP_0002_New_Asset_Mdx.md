@@ -88,56 +88,60 @@ https://mdex.com/#/
 
 
 # FIP-0002 New asset - MDX
-Additional information on MDX  lending/borrowing is attached to facilitate FilDA DAO voters to decide.
+MDX will be added into the banking protocol on FilDA if the DAO voting polls in its favour. The initial liquidation threshold for MDX is 0% and the subsequent liquidation threshold will be adjusted through further DAO voting.
+Additional information on MDX lending/borrowing is attached to facilitate DAO voters’ understanding of this proposal. 
 
-### 1. Motivation of supporting MDX :
 
-MDEX plays an important and irreplaceable role in the HECO ecology. Due to its unique economic model, MDX quickly occupied the position of HECO’s head of DEX on HECO. Adding the MDX lending function can enrich FilDA's asset types and meet the needs of users.
+### 1. Why add MDX into banking protocol :
+MDEX plays an important and irreplaceable role in the HECO ecology. Due to its unique economic model, MDX quickly becomes one of the top DEXs on HECO. Adding borrowing/lending features for MDX can enrich FilDA's asset types and meet the user needs.
 
-### 2. Add new asset loan risk reminder:
+### 2. Risk Analysis:
 
-#### 1) Price fluctuation risk
-The initial MDX pledge rate is set to 0%, that is, users can deposit MDX, MDX can be borrowed, but MDX cannot be used as mortage.
-When MDX is used as a loan product, that is, when users pledge other assets to lend MDX, the rapid increase in the price of MDX may cause the loan utilization rate to rise. If the loan utilization rate reaches 100%, liquidation will be triggered.
-Users need to pay attention to relevant price fluctuations and risks when lending MDX.
+#### 1) Price volatility risk
+The initial liquidation threshold for MDX is set to 0%. In other words, users can either deposit or borrow MDX but cannot use it as collateral. When users borrow MDX after collateralizing other assets on FilDA, the rapid increase in the price of MDX may cause the rapid increase of the loan utilization rate. If the loan utilization rate reaches 100%, liquidation will be triggered. Users need to pay attention to this risk due to the price fluctuations when borrowing MDX.
 
 #### 2) Security risk
-Due to the decentralized nature of the DeFi project, security is always a greater risk point.
-MDX has passed the audits of SlowMist, FairyProof, and Certik. At the same time, it has undergone large-scale use of funds since its launch, and the security risks of contracts and assets are relatively low.
+Due to the decentralized nature of the DeFi project, security is always a concern. MDX has passed the audits of SlowMist, FairyProof, and Certik. Besides, it has provided services for many large funds since its launch, so the security risk is relatively low.
 
 #### 3) Liquidity risk
-MDX's current liquidity depth is about 450 million US dollars, with low liquidity risk
-Data reference https://info.mdex.com/#/token/0x25d2e80cb6b86881fd7e07dd263fb79f4abe033c
+MDX's current market depth is about $450 million, so MDX has a low liquidity risk. Please refer the data in the below link: 
+
+https://info.mdex.com/#/token/0x25d2e80cb6b86881fd7e07dd263fb79f4abe033c
+
+### 3. About the interest rate of MDX
+MDX's interest rate model will be more volatile than other assets. Such volatility is necessary to balance the interests of lenders and borrowers. The following values ​​may be adjusted by the team based on actual circumstances.
 
 
-### 3. Description of MDEX interest rate setting
-MDX's borrowing interest rate model will fluctuate more than other assets. It is necessary to balance the interests of depositors and borrowers. The following values ​​may be changed by the team based on actual conditions.
+#### 1) Basic interest rate: We will refer to the MDX pledge APY in the boardroom on MDX website. The initial basic rate of MDX loans is 50%, which will be adjusted in accordance with the actual deposits/loans situation on the FilDA platform.
+Here is MDEX Boardroom link:  
 
-#### 1) Basic interest rate: Refer to the MDX pledge APY in MDEX's boardroom. The initial basic interest rate of MDX loans is set at 50%, which will be adjusted in accordance with the actual situation of MDX's deposits on the FilDA platform.
-MDEX Boardroom link https://mdex.com/#/boardroom
+https://mdex.com/#/boardroom
 
-#### 2) In the MDX turning point interest rate model, the first tier turning point increases as the MDX capital utilization rate is 50%, and the capital utilization rate increases by 1%, and the interest rate rises 15%. The second tier turning point MDX capital utilization rate is 90%, per utilization rate For every 1% increase, the interest rate increases by 30%
+#### 2) In the segmented interest model for MDX, when asset utilization rate exceeds 50%, the interest rate increases by 15% when asset utilization rate increases by 1%; when asset utilization rate exceeds 90%, the interest rate increases by 30% when asset utilization rate increases by 1%.
 
-Introduction to interest rate models
+Please refer to Introduction to interest rate models in the below link: 
+
 https://docs.filda.io/ye-wu-liu-cheng/li-lv-mo-xing-interest-model
 
 
-#### 4. MDX currency risk control restrictions
-In order to reduce system risks and protect users' rights and interests, the following conditions may trigger deposit restrictions, that is, users can no longer deposit MDX, and can withdraw or borrow MDX during the period.
-1) The price of MDX has risen by more than 50% within 24 hours, triggering the deposit limit.
-2) Currently, an upper limit of USD 10 million equivalent to the total supply of MDX is set, triggering the deposit limit.
+#### 4. MDX risk control restrictions
+In order to reduce system risks and protect the asset security for users, the system may trigger deposit restrictions (users can no longer deposit MDX but can withdraw or borrow MDX during that period) in the following circumstances:
+
+1) The price of MDX increases by more than 50% within 24 hours.
+2) The value of the total supply of MDX exceeds the limit of USD 10 million.
 
 
 
 ### MDEX overview
 
 #### 1. Introduction to MDEX
-MDEX is a decentralized trading product based on an automated market-making mechanism on HECO.
-According to coinmarketcap and coingecko data, Mdex's daily trading volume ranks first in the world, and is the sum of Uniswap, Pancakeswap, and sushiswap from second to fourth.
+MDEX is a decentralized trading product based on an automated market-making mechanism on HECO. According to coinmarketcap and coingecko data, Mdex's daily trading volume ranks first in the world, and is the sum of Uniswap, Pancakeswap, and Sushiswap from second to fourth.
+Top Decentralized Exchanges by Trading Volume 
 
-Top Decentralized Exchanges by Trading Volume
-https://coinmarketcap.com/rankings/exchanges/dex/
+https://coinmarketcap.com/rankings/exchanges/dex/ 
+
 https://www.coingecko.com/en/dex
+
 
 #### 2. MDEX data overview
 https://mdex.com/#/
@@ -145,6 +149,7 @@ https://mdex.com/#/
 
 #### 3. MDX tokens
 1) Token transaction situation
+
 https://www.defibox.com/markets/mdex?chain=heco
 
 2) Total amount of tokens, etc.
