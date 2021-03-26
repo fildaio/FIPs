@@ -1,6 +1,6 @@
-[中文版](#fip-0003-%E6%96%B0%E8%B5%84%E4%BA%A7---LINK)
+[中文版](#fip-0003-%E6%96%B0%E8%B5%84%E4%BA%A7---link)
 
-[English Version](#fip-0003-new-asset---LINK)
+[English Version](#filda-fip0003-new-assetlink)
 
 # FIP-0003 新资产 - LINK
 
