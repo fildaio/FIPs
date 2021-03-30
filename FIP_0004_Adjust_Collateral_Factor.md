@@ -1,6 +1,6 @@
-[中文版](#fip-0003-%E6%96%B0%E8%B5%84%E4%BA%A7---link)
+[中文版](#fip-0004-%E6%8F%90%E9%AB%98mdxuniaavesnx%E4%BB%A3%E5%B8%81%E8%B4%A8%E6%8A%BC%E7%8E%87)
 
-[English Version](#filda-fip0003-new-assetlink)
+[English Version](#filda-fip0004-adjust-collateral-factor-proposal)
 
 # FIP-0004 提高MDX、UNI、AAVE、SNX代币质押率
 
