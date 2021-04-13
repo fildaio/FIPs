@@ -1,6 +1,6 @@
-[中文版](#)
+[中文版](#fip-0005-%E8%B0%83%E6%95%B4filda%E4%BB%A3%E5%B8%81%E5%88%86%E9%85%8D)
 
-[English Version](#)
+[English Version](#filda-fip0005-adjust-token-distribution-proposal)
 
 # FIP-0005 调整FilDA代币分配
 
