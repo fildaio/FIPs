@@ -1,6 +1,6 @@
-[中文版](#)
+[中文版](#fip-0006-%E8%B0%83%E6%95%B4dao%E5%88%86%E7%BA%A2%E8%A7%84%E5%88%99)
 
-[English Version](#)
+[English Version](#fip-0006-adjust-dao-airdrop-rules)
 
 # FIP-0006 调整DAO分红规则
 
