@@ -54,3 +54,39 @@ FilDA现行方案是每周五拿出协议收入的20%用于兑换HT并按规则�
 - FilDA流通量45001548（4500万）
 - 从2021年1月5日12点（UTC）开始，分4年线性释放
 - FilDA智能合约：0xe36ffd17b2661eb57144ceaef942d95295e637f0
+
+
+
+# FIP-0006 Adjust DAO Airdrop Rules
+
+### Background
+
+After three months of development, with the support of the community and users, FilDA has a peak of more than $2.1 billion in deposits and loans, ranking fifth in the global lending sector (the top four are Compound, MakerDAO, Venus, AAVE) respectively. With the launch of the more open FilDA 2.0 program, it is proposed to the community to upgrade the FilDA economic model.
+
+Filda's current scheme is to take 20% of the revenue from the agreement and convert it into HT and airdrop it to DAO pool users every Friday.
+
+After discussion with some community members, it is proposed to adjust the plan as follows, which shall be decided by the community vote:
+
+1. Buy back and airdrop Filda
+2. Buy back and destroy Filda
+3. The present programme will remain unchanged
+
+### About new rules
+- Buy back and airdrop FilDA
+  On a regular basis, 20% of the revenue from the agreement is used to buy back FilDA and airdrop it to DAO pool users.
+  This scheme directly benefits the users of DAO pool and promotes the lock-up of users, but it will not change the circulation of FilDA.
+
+- Buy back and destroy FilDA
+  Regularly use 20% of the revenue from the agreement to buy back the FilDA, and transfer it to the black hole address for destruction. After the destruction is  completed, it will be announced to the community as soon as possible. Users can query it through the blockchain browser to ensure openness and transparency.
+  Through this optimization, it will help to reduce the inflation rate of FilDA, and all FilDA supporters can enjoy the value increase brought about by deflation in  total FilDA liquidity.
+
+- The present programme will remain unchanged
+  Under the current plan, 20% of the revenue from the agreement is exchanged for HT every Friday and airdropped to DAO pool users according to the rules.
+  The scheme encourages holders to lock up their DAO positions in the form of token incentives, which reduces the circulation of FilDA and benefits DAO users. But in the long run, it is impossible to really control the inflation rate of FilDA.
+
+### FilDA Overview
+- 500,000,000 (500 million).
+- Circulating Supply 45001548（45million）
+- From January 5, 2021, at 12:00 UTC, approximately 4 years.
+- FilDA Smart contract：0xe36ffd17b2661eb57144ceaef942d95295e637f0
+
