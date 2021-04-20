@@ -14,9 +14,9 @@ FilDA现行方案是每周五拿出协议收入的20%用于兑换HT并按规则�
 
 经过与部分社区成员讨论，现提议调整方案如下，由社区投票决定：
 
-1. 回购并空投FilDA
+1. 回购并销毁FilDA
 
-2. 回购并销毁FilDA
+2. 回购并空投FilDA
 
 3. 维持目前方案不变
 
@@ -24,20 +24,17 @@ FilDA现行方案是每周五拿出协议收入的20%用于兑换HT并按规则�
 
 ### 提案意图
 
-- 回购并空投FilDA
-
-  定期拿出协议收入的20%用于回购FilDA并空投给DAO池用户。
-
-  该方案直接惠及DAO池用户，促进用户锁仓，但不会改变FilDA的流通量。
-
-
-
 - 回购并销毁FilDA
 
   定期拿出协议收入的20%用于回购FilDA，并转入黑洞地址销毁，销毁完成后第一时间对社区公布，用户可通过区块链浏览器查询，确保公开透明。
 
   通过此项优化，将有利于降低FilDA的通胀率，所有FilDA支持者都能享受到FilDA总流通量通缩带来的价值提升。
+  
+- 回购并空投FilDA
 
+  定期拿出协议收入的20%用于回购FilDA并空投给DAO池用户。
+
+  该方案直接惠及DAO池用户，促进用户锁仓，但不会改变FilDA的流通量。
 
 
 - 保持不变，继续空投HT
@@ -67,19 +64,21 @@ Filda's current scheme is to take 20% of the revenue from the agreement, convert
 
 After discussion with some community members, it is proposed adjust the plan as follows, which shall be decided by a community vote:
 
-1. Buy back and airdrop Filda
-2. Buy back and destroy Filda
+1. Buy back and destroy Filda
+2. Buy back and airdrop Filda
 3. No change. Keep the current programme.
 
 
 ### About new rules
-- Buy back and airdrop FilDA
-
-  Regularly use 20% of the revenue from the agreement to buy back FilDA and airdrop it to DAO pool users. This scheme directly benefits the users of DAO pool and   promotes the lock-up of users, but it will not change the circulation of FilDA.
 
 - Buy back and destroy FilDA
 
   Regularly use 20% of the revenue from the agreement to buy back FilDA, and transfer it to the black hole address for destruction. After the destruction is completed, it will be announced to the community as soon as possible. Users can query the blockchain browser and see the transactions to ensure openness and transparency. This optimization will help to reduce the inflation rate of FilDA, and all FilDA supporters can enjoy the value increase brought about by deflation in total FilDA liquidity.
+  
+- Buy back and airdrop FilDA
+
+  Regularly use 20% of the revenue from the agreement to buy back FilDA and airdrop it to DAO pool users. This scheme directly benefits the users of DAO pool and   promotes the lock-up of users, but it will not change the circulation of FilDA.
+
 
 - The present programme will remain unchanged
 
