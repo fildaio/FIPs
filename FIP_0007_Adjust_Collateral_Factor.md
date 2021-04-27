@@ -78,13 +78,12 @@ As the number of FiLDA users is growing, more community users hope to improve th
 The safety of assets always comes first for a loan platform. Based on consideration of risk control, the collateral factor for market value scale and DEX liquidity of above-mentioned three assets can be adjusted as follows:
 
 | Assets | old | new | 
-| AAVE | 15% | 30% |
-| SNX | 15% | 30% |
-| UNI | 15% | 30% |
-| MDX | 0% | 10% |
+| AAVE | 30% | 50% |
+| UNI | 30% | 50% |
+| MDX | 10% | 50% |
 
 
-### Risk warning for improving the staking ratio:
+### Risk warning for improving the collateral factor:
 
 To protect users’ interest and lower risks, following situation may trigger risks:
 
