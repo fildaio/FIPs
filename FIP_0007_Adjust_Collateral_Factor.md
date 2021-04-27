@@ -2,7 +2,7 @@
 
 [English Version](#filda-fip0007-adjust-collateral-factor-proposal)
 
-# FIP-0004 提高MDX、UNI、AAVE、SNX代币质押率
+# FIP-0007 提高MDX、UNI、AAVE代币质押率
 
 ### 提高质押率动因
 
