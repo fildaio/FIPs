@@ -1,7 +1,7 @@
 
-[中文版](#fip-0008-%E6%96%B0%E8%B5%84%E4%BA%A7---DAI&USDC)
+[中文版](#fip-0008-新资产---daiusdc)
 
-[English Version](#fip-0008-new-asset---DAI&USDC)
+[English Version](#filda-fip0008-new-assets---daiusdc)
 
 # FIP-0008 新资产 - DAI&USDC
 
