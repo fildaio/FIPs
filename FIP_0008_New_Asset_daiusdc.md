@@ -47,7 +47,7 @@ Dai 是以太坊上最大的去中心化稳定币，由 MakerDAO开发，是去�
 
 
 
-# FilDA FIP—0009 DAO Proposal
+# FilDA FIP—0008 New Assets - DAI&USDC
 FilDA supports DAI and USDC assets, The initial liquidation threshold is both 90%
 
 ### EXTRA INFO:
