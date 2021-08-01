@@ -81,7 +81,7 @@ The current huge user base of TUSD not only increases the types of assets for th
 1. Risk of price fluctuations
 
 The initial TUSD pledge rate is set to 80%, and subsequent adjustments to the pledge rate will be decided by DAO voting.
-TUSD has now launched the Ethereum lending agreement AAVE and Compound, etc. The loan scale is about 300 million U.S. dollars, and the TUSD liquidation threshold in AAVE is 80%.
+TUSD has now launched on the Ethereum lending protocol AAVE and Compound, etc. The loan scale is about 300 million U.S. dollars, and the TUSD liquidation threshold in AAVE is 80%.
 
 2. Security risks
 
