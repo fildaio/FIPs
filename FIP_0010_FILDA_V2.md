@@ -1,6 +1,6 @@
-[中文版]( # FilDA 2.0 提案(中文版) )
+[中文版]( #filda-20-%E6%8F%90%E6%A1%88%E4%B8%AD%E6%96%87%E7%89%88 )
 
-[English Version]( # FilDA 2.0 proposal )
+[English Version]( #filda-20-proposal )
 
 # FilDA 2.0 提案(中文版)
 
