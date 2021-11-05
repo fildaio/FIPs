@@ -7,7 +7,7 @@
 
 ### FilDA 2.0 路线图
 
-在新版本里 FilDA 将继续基于DeFi为资产铸造信用、为用户提供资产流动性。为了扩大资产和服务范围，在2.0版本首先会在开启多链运行，譬如Polygon, BSC, IoTeX等，可以接受多链资产，增加资产来源。其次，扩展资产种类，包括UNI V2的LP和UNI V3的NFT等合成资产。再者，我们还会支持信用贷款，为安全可靠的协议提供无抵押借贷，提升资金利用效率。使用无抵押贷款的协议“杠杆借贷”也将同步上线。
+在新版本里 FilDA 将继续基于DeFi为资产铸造信用、为用户提供资产流动性。为了扩大资产和服务范围，在2.0版本首先会启动多链运行，譬如Polygon, BSC, IoTeX等，可以接受多链资产，增加资产来源。其次，扩展资产种类，包括UNI V2的LP和UNI V3的NFT等合成资产。再者，我们还会支持信用贷款，为安全可靠的协议提供无抵押借贷，提升资金利用效率。使用无抵押贷款的协议“杠杆借贷”也将同步上线。
 
 同时FilDA 2.0 还引入了更多安全体系，包括管理员账号使用时间锁和多签管理，以及第三方独立开发者、白帽和安全公司共同审查代码。目前已经有Slowmist, PeckShield, Certik, FairyProof, Knownsec 等安全机构为FilDA提供安全审计，保驾护航。
 
@@ -39,7 +39,7 @@ FilDA 2.0 将利用资金池为杠杆借贷提供更低成本借款，对接声�
 
 #### 5） 探索 NFT+DeFi 的借贷场景
 
-尽管 NFT 掀起加密领域令人兴奋的热潮，DeFi 仍是推动 NFT 不断拓宽边界的催化剂。借贷市场或许是 NFT 生态系统中缺失的成分。成熟的 NFT 生态系统需要建立一个 DEFI 市场，让人们既可以使用 NFT 获得贷款，也可以租赁其 NFT，获得收益。为此，FilDA2.0 将探索如何为日渐庞大的NFT市场的优质资产提供流动性，成为NFT的“典当行”。
+尽管 NFT 掀起加密领域令人兴奋的热潮，DeFi 仍是推动 NFT 不断拓宽边界的催化剂。借贷市场或许是 NFT 生态系统中缺失的成分。成熟的 NFT 生态系统需要建立一个 DEFI 市场，让人们既可以使用 NFT 获得贷款，也可以租赁其 NFT，获得收益。为此，FilDA 2.0 将探索如何为日渐庞大的NFT市场的优质资产提供流动性，成为NFT的“典当行”。
 
 
 
@@ -49,13 +49,13 @@ FilDA 2.0 将利用资金池为杠杆借贷提供更低成本借款，对接声�
 
 #### 1. HECO销毁减产：
 
-	HECO销毁 6000万枚FilDA，每日 FilDA 产量相应减产。当 FilDA 在更多链部署时，仍将采用投票的方式销毁更多FilDA。
+HECO销毁 6000万枚FilDA，每日 FilDA 产量相应减产。当 FilDA 在更多链部署时，仍将采用投票的方式销毁更多FilDA。
 
 #### 2. 协议控制价值：
 
-	1. 组建协议控制价值 Protocol Controlled Value，目前用途主要提供DEX流动性，未来用途由社区DAO投票决定。此举可有效减少通胀，并增加FilDA协议及治理代币价值。
-	2. FilDA协议原平台 20% 收入用于DAO 用户空投调整为平台每周 25%收入进入协议控制资产，用于为FilDA永久提供流动性及增值等，协议控制资产DAO 拥有控制权限。
-	3. LP 及 DAO挖矿激励比例均从15%逐渐调整为12.5%，总体激励中5%的FilDA进入协议控制资产，与每周收入共同组合成流动性。
+1. 组建协议控制价值 Protocol Controlled Value，目前用途主要提供DEX流动性，未来用途由社区DAO投票决定。此举可有效减少通胀，并增加FilDA协议及治理代币价值。
+2. FilDA协议原平台 20% 收入用于DAO 用户空投调整为平台每周 25%收入进入协议控制资产，用于为FilDA永久提供流动性及增值等，协议控制资产DAO 拥有控制权限。
+3. LP 及 DAO挖矿激励比例均从15%逐渐调整为12.5%，总体激励中5%的FilDA进入协议控制资产，与每周收入共同组合成流动性。
 
 
 
@@ -63,7 +63,7 @@ FilDA 2.0 将利用资金池为杠杆借贷提供更低成本借款，对接声�
 
 ### Polygon跨链计划
 
-FilDA 将跨链到 Polygon 链，发行5000万枚FilDA，其中 90% 是社区激励，5%开拓新市场与生态，5% 为开发团队激励。
+FilDA 将跨链到 Polygon 链，发行5000万枚FILDA，其中 90% 是社区激励，5%开拓新市场与生态，5% 为开发团队激励。
 
 
 第一阶段：Polygon 链上 Beta版测试。
@@ -76,11 +76,11 @@ FilDA 将跨链到 Polygon 链，发行5000万枚FilDA，其中 90% 是社区激
 
 ##### 备注：
 
-1. FilDA 计划跨链 5000万 FilDA 代币进行分配。
+1. FilDA 计划跨链 5000万 FILDA 代币到Polygon。
 
-2. FilDA在全网总量5亿枚保持不变，跨链到Polygon的pFilDA，将在HECO上进行相应的销毁。
+2. FILDA 在全网总量5亿枚保持不变，跨链到Polygon的pFILDA，将在HECO上进行相应的销毁。
 
-3. 待通用跨链技术完备之后开通FilDA跨链，根据市场价格开通hFilDA与pFilDA兑换机制，初步计划在2022年Q2。
+3. 待跨链技术完备之后开通FILDA跨链，根据市场价格开通hFILDA与pFILDA兑换机制，初步计划在2022年Q2。
 
 
 ##### 关于Polygon
@@ -95,7 +95,7 @@ Polygon网络计划成为以太坊链上首个Layer2解决方案聚合器，为�
 
 
 
-FilDA 将跨链到 IoTeX 公链，发行1000万枚FilDA，其中90%是社区激励，5%用于引入 IoTeX 市场与生态，5%用于协议开发团队激励。
+FilDA 将跨链到 IoTeX 公链，发行1000万枚FILDA，其中90%是社区激励，5%用于引入 IoTeX 市场与生态，5%用于协议开发团队激励。
 
 
 
@@ -109,11 +109,11 @@ FilDA 将跨链到 IoTeX 公链，发行1000万枚FilDA，其中90%是社区激�
 
 ##### 备注：
 
-1. FilDA 预计划跨链1000万 FilDA 代币进行分配。
+1. FilDA 预计划跨链1000万 FILDA 代币到IoTex。
 
-2. FilDA 在全网总量5亿枚保持不变，跨链到 IoTeX 的 iFilDA，在HECO上进行相应的销毁。
+2. FILDA 在全网总量5亿枚保持不变，跨链到 IoTeX 的 iFILDA，在HECO上进行相应的销毁。
 
-3. 待通用跨链技术完备之后开通FilDA跨链，根据市场价格开通hFilDA与pFilDA兑换机制，初步计划在2022年Q2。
+3. 待通用跨链技术完备之后开通FILDA跨链，根据市场价格开通hFILDA与iFILDA兑换机制，初步计划在2022年Q2。
 
 ##### 关于IoTeX
 
@@ -127,7 +127,7 @@ IoTeX是为物联网度身定制的去中心化网络，由可扩展的、注重
 
 ### FilDA 2.0 Roadmap
 
-In the new version, FilDA will continue to create credit for assets and provide liquidity to DeFi users. In order to expand the range of assets and services, Version 2.0 will first enable multi-chain operations, such as Polygon, to accept multi-chain assets and increase the sources of assets. Secondly, expansion of the asset classes will include synthetic assets such as UNI V2 LP and UNI V3 NFT. In addition, we will support credit lending, providing unsecured lending agreements, and improve capital efficiency. The first chance to use unsecured loans, "leveraged lending", will also come online. FilDA 2.0 also introduces more security systems, such as time locking and multiple checkmarks, as well as scrutiny from third-party independent developers; white hats and security companies reviewing code together. Slowmist, PeckShield, Certik, FairyProof, Knownsec and other security organizations provide security audits for FilDA. Finally, a sub-project, called "Flying Money", that supports cross-chain access of assets is expected to be available in version 2.1, allowing users to quickly transfer money across multiple chains.
+In the new version, FilDA will continue to create credit for assets and provide liquidity to DeFi users. In order to expand the range of assets and services, Version 2.0 will run on the multi-chain, such as Polygon, BSC and IoTex, to accept multi-chain assets and increase the sources of assets. Secondly, expansion of the asset classes will include synthetic assets such as UNI V2 LP and UNI V3 NFT. In addition, we will support credit lending, providing unsecured lending agreements, and improve capital efficiency. The first chance to use unsecured loans, "leveraged lending", will also come online. FilDA 2.0 also introduces more security systems, such as time locking and multiple checkmarks, as well as scrutiny from third-party independent developers; white hats and security companies reviewing code together. Slowmist, PeckShield, Certik, FairyProof, Knownsec and other security organizations provide security audits for FilDA. Finally, a sub-project, called "Flying Money", that supports cross-chain access of assets is expected to be available in version 2.1, allowing users to quickly transfer money across multiple chains.
 
 
 #### 1) Multi-chain deployment
@@ -164,17 +164,17 @@ DeFi is the catalyst that pushes NFTs to expand its boundaries, further to the e
 
 ##### 1. HECO destruction and production reduction:
 
-	60 million FilDA tokens will be destroyed, and the daily output of FilDA decreased by 12.5%. The original daily release was about 345,600 tokens, and 302,400 tokens will be released daily after the production reduction is completed.
+60 million FilDA tokens will be destroyed, and the daily output of FilDA decreased by 12.5%. The original daily release was about 345,600 tokens, and 302,400 tokens will be released daily after the production reduction is completed.
 
 ##### 2. Assets controlled by agreement:
 
-	A. Set up the Protocol Controlled Value agreement. The initial use will mainly provide DEX liquidity, and the future use is decided by community DAO voting. This effectively reduces inflation and increases the value of FilDA and governance tokens.
-	
-	B. 25% of the weekly FilDA platform income will go into the assets controlled by the agreement for providing liquidity and appreciation. The DAO assigns these controlled assets.
-	
-		The existing 20% team rewards weekly bonus income for the DAO pool will stop. 
-	
-	C. LP and DAO mining incentives are to be gradually adjusted from 15% to 12.5%. 5% of the overall FILDA incentives will go into the agreement to control assets, and combined with weekly income to form liquidity.
+A. Set up the Protocol Controlled Value agreement. The initial use will mainly provide DEX liquidity, and the future use is decided by community DAO voting. This effectively reduces inflation and increases the value of FilDA and governance tokens.
+
+B. 25% of the weekly FilDA platform income will go into the assets controlled by the agreement for providing liquidity and appreciation. The DAO assigns these controlled assets.
+
+The existing 20% team rewards weekly bonus income for the DAO pool will stop. 
+
+C. LP and DAO mining incentives are to be gradually adjusted from 15% to 12.5%. 5% of the overall FILDA incentives will go into the agreement to control assets, and combined with weekly income to form liquidity.
 
 
 
@@ -195,11 +195,11 @@ Phase 3: Expand more financial scenarios on the Polygon chain
 
 ##### Notes:
 
-1. FilDA plans to distribute 50 million FilDA tokens across the chain.
+1. FILDA plans to distribute 50 million FILDA tokens across the chain.
 
-2. The total number of FilDA in the whole network remains unchanged at 500 million. FilDA that crosses the chain to Polygon will be destroyed in HECO accordingly.
+2. The total number of FILDA in the whole network remains unchanged at 500 million. FILDA that crosses the chain to Polygon will be destroyed in HECO accordingly.
 
-3. After the general cross chain technology is complete, FILDA cross chain will be opened, and hfilda and pfilda transaction pairs will be opened according to the market price. It is preliminarily planned to be Q2 in 2022.
+3. After the general cross chain technology is complete, FILDA cross chain will be opened, and hFILDA and pFILDA transaction pairs will be opened according to the market price. It is preliminarily planned to be Q2 in 2022.
 
 
 
@@ -229,11 +229,11 @@ Phase 3: Expand more financial scenarios on the IoTeX chain
 
 ##### Notes:
 
-1. FilDA plans to distribute 10 million FilDA tokens across the chain.
+1. FILDA plans to distribute 10 million FILDA tokens across the chain.
 
-2. The total number of FilDA in the whole network remains unchanged at 500 million. FilDA that crosses the chain to IoTeX will be destroyed in HECO accordingly.
+2. The total number of FILDA in the whole network remains unchanged at 500 million. FILDA that crosses the chain to IoTeX will be destroyed in HECO accordingly.
 
-3. After the general cross chain technology is complete, FILDA cross chain will be opened, and hfilda and ifilda transaction pairs will be opened according to the market price. It is preliminarily planned to be Q2 in 2022.
+3. After the general cross chain technology is complete, FILDA cross chain will be opened, and hFILDA and iFILDA transaction pairs will be opened according to the market price. It is preliminarily planned to be Q2 in 2022.
 
 
 
